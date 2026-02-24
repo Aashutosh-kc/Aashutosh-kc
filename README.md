@@ -32,7 +32,7 @@ Computer Engineering Student passionate about building systems, solving problems
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
+- GitHub:   https://github.com/Aashutosh-kc
 - LinkedIn: (optional)
 
 ---
