@@ -1,40 +1,61 @@
-# 👨‍💻 Hello, I'm Aashutosh KC
+# Hey, I'm Aashutosh KC 👋
 
-Computer Engineering Student passionate about building systems, solving problems, and learning new technologies.
-
----
-
-## 🚀 About Me
-
-- 🎓 Studying Computer Engineering  
-- 💻 Interested in Programming & System Design  
-- 📚 Currently learning Data Structures and Algorithms  
-- 🔧 Exploring C, C++, and Software Development  
+Computer Engineering student from Nepal — building toward a serious career 
+in frontend development through consistent effort and real projects. No shortcuts.
 
 ---
 
-## 🛠️ Skills
+## What I'm Building Toward
 
-- C  
-- C++  
-- Git & GitHub  
-- Problem Solving  
-
----
-
-## 🎯 Goals
-
-- Build real-world projects  
-- Strengthen core programming concepts  
-- Become a strong system-level developer  
+- 🎯 Job-ready frontend developer by 3rd year
+- 🌐 HTML, CSS, JavaScript → React → Big tech prep
+- 🔨 Real projects over tutorials, always
+- 🌍 Long-term: international tech opportunities
 
 ---
 
-## 📫 Connect With Me
+## Current Stack
 
-- GitHub:   https://github.com/Aashutosh-kc
-- LinkedIn: (optional)
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
+
+**Currently learning:** Flexbox → JavaScript fundamentals
 
 ---
 
-⭐ Always learning. Always building.
+## Projects
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| 🎬 Media Player | HTML, CSS, JS | 🔨 In Progress |
+| 📐 Flexbox Practice | HTML, CSS | ✅ Active |
+
+---
+
+## How I Work
+
+- Feature-based commits — every commit means something
+- Project-based learning — concepts stick when applied
+- Consistent daily progress over motivation bursts
+
+---
+
+*"Discipline over motivation. Build every day."*
