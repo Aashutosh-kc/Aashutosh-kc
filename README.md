@@ -37,7 +37,7 @@ in frontend development through consistent effort and real projects. No shortcut
 
 
 
-**Currently learning:** Flexbox → JavaScript fundamentals
+**Currently learning:** JavaScript — DOM & Events
 
 ---
 
@@ -45,8 +45,10 @@ in frontend development through consistent effort and real projects. No shortcut
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| 🎬 Media Player | HTML, CSS, JS | 🔨 In Progress |
-| 📐 Flexbox Practice | HTML, CSS | ✅ Active |
+| 🎬 Media Player | HTML, CSS, JS | 📋 Planned |
+| 📐 UI Components | HTML, CSS | ✅ Active |
+| 🧠 JS Fundamentals Practice | JavaScript | ✅ Active |
+
 
 ---
 
