@@ -10,7 +10,7 @@ in frontend development through consistent effort and real projects. No shortcut
 - 🎯 Job-ready frontend developer by 3rd year
 - 🌐 HTML, CSS, JavaScript → React → Big tech prep
 - 🔨 Real projects over tutorials, always
-- 🌍 Long-term: international tech opportunities
+- 🌍 Long-term: remote work & international tech opportunities
 
 ---
 
@@ -37,7 +37,7 @@ in frontend development through consistent effort and real projects. No shortcut
 
 
 
-**Currently learning:** JavaScript — DOM & Events
+**Currently learning:** Fetch API & async/await
 
 ---
 
@@ -45,10 +45,12 @@ in frontend development through consistent effort and real projects. No shortcut
 
 | Project | Stack | Status |
 |---------|-------|--------|
+| ✅ Todo List | HTML, CSS, JS | ✅ Complete |
+| 👤 Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
+| 🌤️ Weather App | HTML, CSS, JS, Fetch API | 🔨 In Progress |
 | 🎬 Media Player | HTML, CSS, JS | 📋 Planned |
 | 📐 UI Components | HTML, CSS | ✅ Active |
 | 🧠 JS Fundamentals Practice | JavaScript | ✅ Active |
-
 
 ---
 
