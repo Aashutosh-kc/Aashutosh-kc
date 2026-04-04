@@ -1,6 +1,6 @@
 # Hey, I'm Aashutosh KC 👋
 
-Computer Engineering student from Nepal — building toward a serious career 
+Computer Engineering student from Nepal — building toward a serious career
 in frontend development through consistent effort and real projects. No shortcuts.
 
 ---
@@ -16,28 +16,40 @@ in frontend development through consistent effort and real projects. No shortcut
 
 ## Current Stack
 
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br><sub>React</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br><sub>Vite</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><sub>Git</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br><sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-
-**Currently learning:** Fetch API & async/await
+**Currently learning:** React (components, hooks, state management)
 
 ---
 
@@ -45,12 +57,13 @@ in frontend development through consistent effort and real projects. No shortcut
 
 | Project | Stack | Status |
 |---------|-------|--------|
+| 💸 Expense Tracker | React, Vite, CSS | ✅ Complete |
 | ✅ Todo List | HTML, CSS, JS | ✅ Complete |
 | 👤 Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
-| 🌤️ Weather App | HTML, CSS, JS, Fetch API | 🔨 In Progress |
-| 🎬 Media Player | HTML, CSS, JS | 📋 Planned |
+| 🌤️ Weather App | HTML, CSS, JS, Fetch API | ✅ Complete |
 | 📐 UI Components | HTML, CSS | ✅ Active |
 | 🧠 JS Fundamentals Practice | JavaScript | ✅ Active |
+| 🎬 Media Player | HTML, CSS, JS | 📋 Planned |
 
 ---
 
