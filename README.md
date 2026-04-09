@@ -58,6 +58,7 @@ in frontend development through consistent effort and real projects. No shortcut
 | Project | Stack | Status |
 |---------|-------|--------|
 | 💸 Expense Tracker | React, Vite, CSS | ✅ Complete |
+| 📋 Multi List Organizer | HTML, CSS, JS | 🔨 Working |
 | ✅ Todo List | HTML, CSS, JS | ✅ Complete |
 | 👤 Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
 | 🌤️ Weather App | HTML, CSS, JS, Fetch API | ✅ Complete |
