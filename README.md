@@ -54,19 +54,18 @@ in frontend development through consistent effort and real projects. No shortcut
 ---
 
 ## Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| 💸 Expense Tracker | React, Vite, CSS | ✅ Complete |
-| ✅ Todo List (React) | React, Vite, CSS | ✅ Complete |
-| 📋 Multi List Organizer | HTML, CSS, JS | ✅ Complete |
-| ✅ Todo List | HTML, CSS, JS | ✅ Complete |
-| 👤 Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
-| 🌤️ Weather App | HTML, CSS, JS, Fetch API | ✅ Complete |
-| 📐 UI Components | HTML, CSS | 🔨 Active |
-| 🧠 JS Fundamentals Practice | JavaScript | 🔨 Active |
-| 🎬 Media Player | HTML, CSS, JS | 📋 Planned |
-
+| # | Project | Stack | Status |
+|---|---------|-------|--------|
+| 1 | Expense Tracker | React, Vite, CSS | ✅ Complete |
+| 2 | Todo List (React) | React, Vite, CSS | ✅ Complete |
+| 3 | Multi List Organizer | HTML, CSS, JS | ✅ Complete |
+| 4 | Todo List | HTML, CSS, JS | ✅ Complete |
+| 5 | Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
+| 6 | Weather App | HTML, CSS, JS, Fetch API | ✅ Complete |
+| 7 | UI Components | HTML, CSS | 🔨 Active |
+| 8 | JS Fundamentals Practice | JavaScript | 🔨 Active |
+| 9 | Snake Game | C++, SFML | 🚧 In Progress |
+| 10 | Media Player | HTML, CSS, JS | 📋 Planned |
 ---
 
 
