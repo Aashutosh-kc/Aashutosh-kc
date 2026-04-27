@@ -49,7 +49,7 @@ in frontend development through consistent effort and real projects. No shortcut
   </tr>
 </table>
 
-**Currently learning:** React (components, hooks, state management)
+**Currently learning:** C++ SFML
 
 ---
 
