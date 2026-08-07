@@ -65,7 +65,7 @@ in frontend development through consistent effort and real projects. No shortcut
 | 7 | UI Components | HTML, CSS | 🔨 Active |
 | 8 | JS Fundamentals Practice | JavaScript | 🔨 Active |
 | 9 | Snake Game | C++, SFML | 🚧 In Progress |
-| 10 | Pomodorro Timer Game | React, Vite, CSS | 🚧 In Progress |
+| 10 | Pomodorro Timer | React, Vite, CSS | 🚧 In Progress |
 | 11 | Media Player | HTML, CSS, JS | 📋 Planned |
 ---
 
