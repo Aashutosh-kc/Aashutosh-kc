@@ -1,4 +1,4 @@
-# Hey, I'm Aashutosh KC 👋
+# Hey, I'm Aashutosh KC
 
 Computer Engineering student from Nepal — building toward a serious career
 in frontend development through consistent effort and real projects. No shortcuts.
@@ -7,68 +7,51 @@ in frontend development through consistent effort and real projects. No shortcut
 
 ## What I'm Building Toward
 
-- 🎯 Job-ready frontend developer by 3rd year
-- 🌐 HTML, CSS, JavaScript → React → Big tech prep
-- 🔨 Real projects over tutorials, always
-- 🌍 Long-term: remote work & international tech opportunities
+- Job-ready frontend developer by 3rd year
+- HTML, CSS, JavaScript → React → Big tech prep
+- Real projects over tutorials, always
+- Long-term: remote work & international tech opportunities
 
 ---
 
 ## Current Stack
 
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br><sub>HTML5</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br><sub>React</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
-      <br><sub>Vite</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br><sub>GitHub</sub>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,cpp)](https://skillicons.dev)
 
 **Currently learning:** C++ SFML
+
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aashutosh-kc&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+</p>
 
 ---
 
 ## Projects
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 1 | Expense Tracker | React, Vite, CSS | ✅ Complete |
-| 2 | Todo List (React) | React, Vite, CSS | ✅ Complete |
-| 3 | Multi List Organizer | HTML, CSS, JS | ✅ Complete |
-| 4 | Todo List | HTML, CSS, JS | ✅ Complete |
-| 5 | Random User Card | HTML, CSS, JS, Fetch API | ✅ Complete |
-| 6 | Weather App | HTML, CSS, JS, Fetch API | ✅ Complete |
-| 7 | UI Components | HTML, CSS | 🔨 Active |
-| 8 | JS Fundamentals Practice | JavaScript | 🔨 Active |
-| 9 | Snake Game | C++, SFML | 🚧 In Progress |
-| 10 | Pomodorro Timer | React, Vite, CSS | 🚧 In Progress |
-| 11 | Media Player | HTML, CSS, JS | 📋 Planned |
----
 
+| # | Project | Stack | Status | Live |
+|---|---------|-------|--------|------|
+| 1 | Expense Tracker | React, Vite, CSS | Complete | [Demo](https://expense-tracker-seven-kappa-49.vercel.app/) |
+| 2 | Weather App | HTML, CSS, JS, Fetch API | Complete | [Demo](https://aashutosh-kc.github.io/weather-app/) |
+| 3 | Locus (Math App) | React, Vite, CSS | Complete | [Demo](https://locus-wine.vercel.app/) |
+| 4 | Todo List (React) | React, Vite, CSS | Complete | [Demo](https://todo-list-react-peach-xi.vercel.app/) |
+| 5 | Multi List Organizer | HTML, CSS, JS | Complete | [Demo](https://multi-list-organizer.vercel.app/) |
+| 6 | Pomodorro Timer | React, Vite, CSS | In Progress | [Demo](https://pomodorro-timer-ecru.vercel.app/) |
+| 7 | Snake Game | C++, SFML | In Progress | — |
+
+<details>
+<summary>Earlier practice projects</summary>
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| Todo List | HTML, CSS, JS | Complete |
+| Random User Card | HTML, CSS, JS, Fetch API | Complete |
+| UI Components | HTML, CSS | Active |
+
+</details>
+
+---
 
 ## How I Work
 
