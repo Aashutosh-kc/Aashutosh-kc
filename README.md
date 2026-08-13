@@ -23,7 +23,7 @@ in frontend development through consistent effort and real projects. No shortcut
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashutosh-kc&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Aashutosh-kc&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" height="165" />
 </p>
 
 ---
