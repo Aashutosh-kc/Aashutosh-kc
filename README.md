@@ -18,7 +18,7 @@ in frontend development through consistent effort and real projects. No shortcut
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,git,github,cpp)](https://skillicons.dev)
 
-**Currently learning:** C++ SFML
+**Currently learning:** React (deepening state, hooks, and component architecture) → heading into MERN
 
 ### GitHub Streak
 
