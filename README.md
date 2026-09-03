@@ -32,13 +32,14 @@ in frontend development through consistent effort and real projects. No shortcut
 
 | # | Project | Stack | Status | Live |
 |---|---------|-------|--------|------|
-| 1 | Expense Tracker | React, Vite, CSS | Complete | [Demo](https://expense-tracker-seven-kappa-49.vercel.app/) |
-| 2 | Weather App | HTML, CSS, JS, Fetch API | Complete | [Demo](https://aashutosh-kc.github.io/weather-app/) |
-| 3 | Locus (Math App) | React, Vite, CSS | Complete | [Demo](https://locus-wine.vercel.app/) |
-| 4 | Todo List (React) | React, Vite, CSS | Complete | [Demo](https://todo-list-react-peach-xi.vercel.app/) |
-| 5 | Multi List Organizer | HTML, CSS, JS | Complete | [Demo](https://multi-list-organizer.vercel.app/) |
-| 6 | Pomodorro Timer | React, Vite, CSS | In Progress | [Demo](https://pomodorro-timer-ecru.vercel.app/) |
-| 7 | Snake Game | C++, SFML | In Progress | — |
+| 1 | Notes | React, Vite, CSS | Complete | [Demo](https://notes-app-six-peach.vercel.app/) |
+| 2 | Expense Tracker | React, Vite, CSS | Complete | [Demo](https://expense-tracker-seven-kappa-49.vercel.app/) |
+| 3 | Weather App | HTML, CSS, JS, Fetch API | Complete | [Demo](https://aashutosh-kc.github.io/weather-app/) |
+| 4 | Locus (Math App) | React, Vite, CSS | Complete | [Demo](https://locus-wine.vercel.app/) |
+| 5 | Todo List (React) | React, Vite, CSS | Complete | [Demo](https://todo-list-react-peach-xi.vercel.app/) |
+| 6 | Multi List Organizer | React, Vite, CSS | Complete | [Demo](https://multi-list-organizer.vercel.app/) |
+| 7 | Pomodorro Timer | React, Vite, CSS | In Progress | [Demo](https://pomodorro-timer-ecru.vercel.app/) |
+| 8 | Snake Game | C++, SFML | In Progress | — |
 
 <details>
 <summary>Earlier practice projects</summary>
